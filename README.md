@@ -1,5 +1,5 @@
 ﻿# 💫 About Me:
-Hi, I'm Prakhar Gupta 👋<br><br>Team Lead | Senior Java Developer | Backend Engineer<br><br>I'm a Team Lead with 4.5+ years of experience building and maintaining enterprise-scale applications, with a strong focus on Java, Spring Boot, REST APIs, databases, and distributed systems.<br><br>I enjoy solving complex backend problems, designing scalable services, improving application performance, and continuously learning modern technologies.
+Hi, I'm Prakhar Gupta 👋<br><br>Team Lead | Senior Java Developer | Backend Engineer<br><br>I'm a Team Lead with 5+ years of experience building and maintaining enterprise-scale applications, with a strong focus on Java, Spring Boot, REST APIs, databases, and distributed systems.<br><br>I enjoy solving complex backend problems, designing scalable services, improving application performance, and continuously learning modern technologies.
 
 
 ## 🌐 Socials:
